@@ -1,0 +1,10 @@
+drop table Прайслист;
+drop table Аптека;
+drop table Номер_товара;
+drop table АдресАптеки;
+drop table НаборХарактеристик;
+drop table ДиректорФИО;
+drop table Организация;
+drop table Товар;
+drop table ГруппаТоваров;
+drop table Характеристика;

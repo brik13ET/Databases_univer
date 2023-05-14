@@ -1,0 +1,21 @@
+delete from ГруппаТоваров;
+delete from Товар;
+delete from Характеристика;
+delete from Организация;
+delete from ДиректорФИО;
+delete from Аптека;
+delete from НаборХарактеристик;
+delete from АдресАптеки;
+delete from НаборХарактеристик;
+delete from Аптека;
+
+drop table Прайслист;
+drop table Аптека;
+drop table Номер_товара;
+drop table АдресАптеки;
+drop table НаборХарактеристик;
+drop table ДиректорФИО;
+drop table Организация;
+drop table Товар;
+drop table ГруппаТоваров;
+drop table Характеристика;
